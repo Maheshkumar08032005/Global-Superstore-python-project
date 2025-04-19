@@ -4,27 +4,27 @@ This project dives into sales and profit trends using the Global Superstore data
 
 📊 Project Objectives
 
-Monthly Sales Trend
+  1.) Monthly Sales Trend
 
-Top 10 Most Profitable Products
+  2.) Top 10 Most Profitable Products
 
-Average Sales by Ship Mode
+  3.) Average Sales by Ship Mode
 
-Sales and Profit by Region
+  4.) Sales and Profit by Region
 
-Total Profit by Region
+  5.) Total Profit by Region
 
-Data Includes:
+  6.) Data Includes:
 
-Product names and categories
+    6.1) Product names and categories
 
-Sales and profit values
+    6.2) Sales and profit values
 
-Region, Country, and Segment data
+    6.3) Region, Country, and Segment data
 
-Order and Ship dates
+    6.4) Order and Ship dates
 
-Ship modes
+    6.5) Ship modes
 
 🛠️ Tools & Libraries
 
